@@ -1,3 +1,3 @@
 'use strict'
 
-const app = angular.module('ShoppingApp', []);
+const app = angular.module('ShoppingApp', ["xeditable"]);
